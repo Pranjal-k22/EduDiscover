@@ -280,7 +280,7 @@ npm run build
 
 **Vercel** (Recommended)
 ```bash
-vercel deploy: edu-discover-kappa.vercel.app
+edu-discover-kappa.vercel.app
 
 ```
 
