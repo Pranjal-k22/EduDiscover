@@ -283,13 +283,6 @@ npm run build
 vercel deploy
 ```
 
-**Netlify**
-```bash
-netlify deploy --prod --dir=dist
-```
-
-**Azure Static Web Apps**
-Connect your GitHub repo and deploy via Azure Portal.
 
 ---
 
@@ -308,31 +301,6 @@ Connect your GitHub repo and deploy via Azure Portal.
 
 ---
 
-## 📄 License
-
-This project is part of Google AI Studio demonstrations.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Create a feature branch: `git checkout -b feature/your-feature`
-2. Commit changes: `git commit -m "Add feature description"`
-3. Push to branch: `git push origin feature/your-feature`
-4. Open a pull request
-
----
-
-## 📞 Support
-
-For issues, questions, or feedback:
-- Open a GitHub issue
-- Check existing documentation
-- Review the [Loom video explanation](./LOOM_VIDEO_SCRIPT.md)
-
----
 
 ## 📊 Key Metrics
 
