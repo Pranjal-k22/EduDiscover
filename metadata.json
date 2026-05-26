@@ -1,0 +1,6 @@
+{
+  "name": "EduDiscover",
+  "description": "A elite data-dense College Discovery and Decision Platform. Find, filter, compare, and forecast top engineering colleges in India with custom cutoff predictors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
