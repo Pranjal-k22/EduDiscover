@@ -280,7 +280,7 @@ npm run build
 
 **Vercel** (Recommended)
 ```bash
-vercel deploy
+vercel deploy: https://edu-discover-nu.vercel.app/?
 ```
 
 
